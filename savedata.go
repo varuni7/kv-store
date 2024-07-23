@@ -1,4 +1,4 @@
-package save 
+package main 
 import ( "os" )
 func SaveData1(path string, data []byte) error {
     fp, err := os.OpenFile(path, os.O_WRONLY|os.O_CREATE|os.O_TRUNC, 0664)
