@@ -1,5 +1,5 @@
 # kv store
 
-Simple kv sotre in Python 
+Simple kv store in Python 
 
  
